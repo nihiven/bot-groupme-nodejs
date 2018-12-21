@@ -20,7 +20,7 @@ var quotes = [
   '"I\'m so glad I can hear myself in the feed again. *Dooooo. Do re me fa so la ti dooooo!*" - Cayde-6',
   '"The translation software I have here is a bit rusty, but I believe they\'re saying some extremely rude things about your mother." - Devrim Kay',
   '"I used a pretty nasty word to describe Ghaul. I don\'t want to repeat it here." - Ghost',
-  '"Does that fallen look like a transmat thieving thief to you? He looks like a transmat theieving theif to me." - Ghost',
+  '"Does that fallen look like a transmat thieving thief to you? He looks like a transmat theieving thief to me." - Ghost',
   '"That one. That one\'s gotta be a transmat thieving thief. He looks even thiefier than the first one." - Ghost',
   '"While I cannot condone theft, I do appreciate payback." - Zavala',
   '"Only my captain can access those memories. And he\'s super dead." - Failsafe',

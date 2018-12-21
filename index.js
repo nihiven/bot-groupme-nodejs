@@ -1,4 +1,4 @@
-var dVer = 'v1.0.6';
+var dVer = 'v1.0.8';
 
 var http, director, bot, router, server, port;
 
